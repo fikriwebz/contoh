@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hacked by ./F1KR7</title>
-  <meta name="description" content="Wh00pz... Your sites has been hacked">
+  <meta name="description" content="Wh00pz... Pay $5 to unlock">
   <meta property="og:image" content="https://www.seekpng.com/png/full/219-2196251_blackhat-black-hat-hacker-png.png">
     <style>
         body {
