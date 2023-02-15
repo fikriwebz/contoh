@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hacked by ./F1KR7</title>
   <meta name="description" content="Wh00pz... Pay $5 to unlock">
-  <meta property="og:image" content="thumb.png">
+  <meta property="og:image" content="https://chromeheartsbrand.com/Pictures/20230215_172212.png">
     <style>
         body {
             background-color: black;
